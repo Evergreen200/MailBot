@@ -1,0 +1,2 @@
+# MailBot
+Still needed.
